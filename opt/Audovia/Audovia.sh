@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#SNAP=/home/donald/mysnaps/audovia-classic # for testing
+#SNAP=/home/donald/mysnaps/audovia-lite # for testing
 
 path=$SNAP/opt/Audovia
 cd /home/$USER

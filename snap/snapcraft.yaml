@@ -1,5 +1,5 @@
-name: audovia-classic
-version: '4.03'
+name: audovia-lite
+version: '4.04'
 summary: Database application for making music using JFugue MusicStrings
 description: |
   Make music on your laptop or PC with Audovia. Songs can have up to 15 instrumental voices and a percussion track with instruments chosen from the default soundbank of 128 instruments or from any other soundbank of your choice. Songs can be developed, tested and edited very quickly and easily by virtue of the database structure and the JFugue MusicString notation.
@@ -16,7 +16,7 @@ description: |
 
   You can share songs by exporting and importing songs in XML format. Use File/Song Import to import the demonstration songs.
 
-  The application can be run by typing audovia-classic at the terminal or by using the desktop shortcut in /snap/audovia-classic/current/.
+  The application can be run by typing audovia-lite at the terminal or by using the desktop shortcut in /snap/audovia-classic/current/.
 
   For a quick start you can use File/Song Import and open the Demo folder, then select a song and Import Song. Then, from Tree View, select "Song", press Play, then Default Soundbank.
 
@@ -34,7 +34,7 @@ layout:
     bind: $SNAP/usr/share/alsa
 
 apps:
-  audovia-classic:
+  audovia-lite:
     # command-chain: ["snap/command-chain/alsa-launch"]
     command-chain: [ bin/desktop-launch, snap/command-chain/alsa-launch ]
     command: opt/Audovia/Audovia.sh
@@ -88,13 +88,13 @@ parts:
       - libsndfile1
       - libxcb1        
   
-  audovia-classic:
+  audovia-lite:
     after: [ myalsa, alsa-mixin, desktop-qt5 ]
     plugin: nil
     override-build: |
       cp -r $SNAPCRAFT_PROJECT_DIR/opt $SNAPCRAFT_PART_INSTALL/
       cp -r $SNAPCRAFT_PROJECT_DIR/usr $SNAPCRAFT_PART_INSTALL/
-      cp "$SNAPCRAFT_PROJECT_DIR/Audovia Classic.desktop" $SNAPCRAFT_PART_INSTALL/
+      cp "$SNAPCRAFT_PROJECT_DIR/Audovia Lite.desktop" $SNAPCRAFT_PART_INSTALL/
     stage-packages:
       - libxcomposite1
       - libxcursor1
