@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+  <connections>
+    <connection>
+      <connection_name>local</connection_name>
+      <db_type>MySQL</db_type>
+      <host_name>localhost</host_name>
+      <port>3306</port>
+      <database>audovia</database>
+      <user_name>audovia</user_name>
+      <password>audovia</password>
+    </connection>
+  </connections>
+  

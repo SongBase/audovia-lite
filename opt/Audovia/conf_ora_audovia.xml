@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+  <connections>
+    <connection>
+      <connection_name>local</connection_name>
+      <db_type>Oracle</db_type>
+      <host_name>localhost</host_name>
+      <port>1521</port>
+      <database>XE</database>
+      <user_name>audovia</user_name>
+      <password>audovia</password>
+    </connection>
+  </connections>
+  

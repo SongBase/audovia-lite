@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=4.0
+Name=Audovia Classic
+Comment=Database application for making music using JFugue MusicStrings
+Exec=audovia-classic
+Icon=${SNAP}/meta/gui/audovia-classic.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Audio;Midi;Music;AudioVideo;Education;
+

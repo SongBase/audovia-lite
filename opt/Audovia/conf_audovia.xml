@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+  <connections>
+    <connection>
+      <connection_name>local</connection_name>
+      <db_type>Derby</db_type>
+      <host_name>n/a</host_name>
+      <port>n/a</port>
+      <database>Database</database>
+      <user_name>n/a</user_name>
+      <password>n/a</password>
+    </connection>
+  </connections>
+  

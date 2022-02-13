@@ -1,0 +1,20 @@
+!GlobalState
+assets:
+  build-packages:
+  - libasound2-dev=1.1.3-5ubuntu0.2
+  - libltdl-dev=2.4.6-2
+  - autotools-dev=20180224.1
+  - libpcre3-dev=2:8.39-9
+  - m4=1.4.18-1
+  - automake=1:1.15.1-3ubuntu2
+  - libpcre32-3=2:8.39-9
+  - zlib1g-dev=1:1.2.11.dfsg-0ubuntu2
+  - autoconf=2.69-11
+  - libglib2.0-dev-bin=2.56.4-0ubuntu0.18.04.2
+  - libpulse-dev=1:11.1-1ubuntu7.2
+  - libglib2.0-dev=2.56.4-0ubuntu0.18.04.2
+  - autopoint=0.19.8.1-6ubuntu0.3
+  - libpcrecpp0v5=2:8.39-9
+  - libtool=2.4.6-2
+  - libsigsegv2=2.12-1
+  build-snaps: []

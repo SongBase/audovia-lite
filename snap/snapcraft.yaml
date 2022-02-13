@@ -1,0 +1,139 @@
+name: audovia-classic
+version: '4.03'
+summary: Database application for making music using JFugue MusicStrings
+description: |
+  Make music on your laptop or PC with Audovia. Songs can have up to 15 instrumental voices and a percussion track with instruments chosen from the default soundbank of 128 instruments or from any other soundbank of your choice. Songs can be developed, tested and edited very quickly and easily by virtue of the database structure and the JFugue MusicString notation.
+
+  Notes within a MusicString are specified by their name and octave or by their MIDI value and their durations are specified either by character code, or numerically. You can use notes from C0 to G10, corresponding to MIDI values 0 to 127. Middle C is C5.
+
+  The opening phrase of Joy to the World can be written as
+
+  C6h B5q. A5i G5h. F5q E5h D5h C5h.
+
+  Notes can be entered manually or by picking from graphic Treble, Alto, Tenor and Bass staves within the MusicString editor.
+
+  Within the application, use File/Template to create a song, then Tree View and expand the nodes. Select each bar in turn and enter the notes. Select "Song" and press Play to play back your music. From the File menu, you can export to MIDI and WAV. The MIDI files can be opened in LMMS for music processing or in MuseScore for music publishing. The WAV files can be opened in Audacity, then exported to MP3.
+
+  You can share songs by exporting and importing songs in XML format. Use File/Song Import to import the demonstration songs.
+
+  The application can be run by typing audovia-classic at the terminal or by using the desktop shortcut in /snap/audovia-classic/current/.
+
+  For a quick start you can use File/Song Import and open the Demo folder, then select a song and Import Song. Then, from Tree View, select "Song", press Play, then Default Soundbank.
+
+  To hear some sample songs please visit our Developer website.
+
+grade: stable
+architectures: [ amd64 ]
+confinement: strict
+base: core20
+
+layout:
+  /usr/lib/$SNAPCRAFT_ARCH_TRIPLET/alsa-lib:
+    bind: $SNAP/usr/lib/$SNAPCRAFT_ARCH_TRIPLET/alsa-lib
+  /usr/share/alsa:
+    bind: $SNAP/usr/share/alsa
+
+apps:
+  audovia-classic:
+    # command-chain: ["snap/command-chain/alsa-launch"]
+    command-chain: [ bin/desktop-launch, snap/command-chain/alsa-launch ]
+    command: opt/Audovia/Audovia.sh
+    plugs: [alsa, home, network, audio-playback, x11, desktop, opengl ]
+
+parts:
+  # specify remote part build order
+  alsa-mixin:
+    after: [ myalsa ]
+    plugin: dump
+    source: https://github.com/diddlesnaps/snapcraft-alsa.git
+    source-subdir: snapcraft-assets
+    build-packages:
+      - libasound2-dev
+    stage-packages:
+      - libasound2
+      - libasound2-plugins
+      - yad
+    stage:
+      # restrict to only audio-related files - you need to ensure
+      # that gtk3 is staged for yad to work correctly, to prompt
+      # users to connect the alsa plug or proceed with pulseaudio.
+      #
+      # This helps prevent symbol conflicts in situations where
+      # you're using a non-default library, such as those that the
+      # gnome-3-34 extension for core18 provides.
+      - etc/asound.conf
+      - snap/command-chain/alsa-launch
+      - usr/bin/yad*
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/alsa-lib
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/libasound*
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/libdnsfile*
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/libFLAC*
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/libjack*
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/libpulse*
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/libsamplerate*
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/libspeex*
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/libvorbis*
+      - usr/lib/$SNAPCRAFT_ARCH_TRIPLET/pulseaudio    
+
+  myalsa:
+    plugin: nil
+    stage-packages:
+      - libasyncns0
+      - libcairo2
+      - libgtk-3-0
+      - libgdk-pixbuf2.0-0
+      - libogg0
+      - libpango-1.0-0
+      - libpangocairo-1.0-0
+      - libsndfile1
+      - libxcb1        
+  
+  audovia-classic:
+    after: [ myalsa, alsa-mixin, desktop-qt5 ]
+    plugin: nil
+    override-build: |
+      cp -r $SNAPCRAFT_PROJECT_DIR/opt $SNAPCRAFT_PART_INSTALL/
+      cp -r $SNAPCRAFT_PROJECT_DIR/usr $SNAPCRAFT_PART_INSTALL/
+      cp "$SNAPCRAFT_PROJECT_DIR/Audovia Classic.desktop" $SNAPCRAFT_PART_INSTALL/
+    stage-packages:
+      - libxcomposite1
+      - libxcursor1
+      - libxinerama1
+      - libxrandr2
+      - libatk1.0-0
+      - libgtk2.0-0 
+
+#  desktop-qt5:
+#    plugin: nil
+#    source: https://github.com/ubuntu/snapcraft-desktop-helpers.git
+#    source-subdir: qt
+ 
+  desktop-qt5:
+    source: https://github.com/ubuntu/snapcraft-desktop-helpers.git
+    source-subdir: qt
+    plugin: make
+    make-parameters: ["FLAVOR=qt5"]
+    build-packages:
+      - build-essential
+      - qtbase5-dev
+      - dpkg-dev
+    stage-packages:
+      - libxkbcommon0
+      - ttf-ubuntu-font-family
+      - dmz-cursor-theme
+      - light-themes
+      - adwaita-icon-theme
+      - gnome-themes-standard
+      - shared-mime-info
+      - libqt5gui5
+      - libgdk-pixbuf2.0-0
+      - libqt5svg5 # for loading icon themes which are svg
+      - try: [appmenu-qt5] # not available on core18
+      - locales-all
+      - xdg-user-dirs
+      - fcitx-frontend-qt5
+      - libgtk2.0-0
+  
+environment:
+  ALWAYS_USE_PULSEAUDIO: '1'
+

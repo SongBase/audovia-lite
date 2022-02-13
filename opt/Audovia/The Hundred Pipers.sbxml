@@ -1,0 +1,408 @@
+<?xml version="1.0"?>
+<songs>
+  <song>
+    <song_name><![CDATA[The Hundred Pipers]]></song_name>
+    <components>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Constants]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Harmony]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Harmony Chorus]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Harmony Final Chorus]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Harmony Verse]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Melody]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Melody Chorus]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Melody Final Chorus]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Melody Verse]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Song]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[constants]]></component_name>
+        <string_value><![CDATA[T110
+$ArpeggioF,octave3=F3i~A3i~C4i~F4i~C4i~A3i
+$ArpeggioF,octave4=F4i~A4i~C5i~F5i~C5i~A4i
+$ArpeggioDm,octave3=D3i~F3i~A3i~D4i~A3i~F3i
+$ArpeggioDm,octave4=D4i~F4i~A4i~D5i~A4i~F4i
+$ArpeggioC7,octave4=C4i~E4i~G4i~B4i~G4i~E4i
+$ArpeggioBb,octave3=B3i~D4i~F4i~B4i~F4i~D4i
+$ArpeggioF/C7,octave3/4=F3i~A3i~C4i~B4i~G4i~E4i
+$ArpeggioF/G7,octave4/3=F4i~A4i~C5i~F4i~D4i~B3i]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony final chorus bars 5-8]]></component_name>
+        <string_value><![CDATA[ {ArpeggioF,octave3} |
+ {ArpeggioBb,octave3} |
+ {ArpeggioF/C7,octave3/4} |
+ F3q. |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony intro]]></component_name>
+        <string_value><![CDATA[ {ArpeggioF,octave3} |
+ {ArpeggioDm,octave3} |
+ {ArpeggioF,octave3} |
+ {ArpeggioC7,octave4} |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 1-4]]></component_name>
+        <string_value><![CDATA[ {ArpeggioF,octave3} |
+ {ArpeggioDm,octave3} |
+ {ArpeggioF,octave3} |
+ {ArpeggioC7,octave4} |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 13-16]]></component_name>
+        <string_value><![CDATA[ {ArpeggioF,octave4} |
+ {ArpeggioBb,octave3} |
+ {ArpeggioF/C7,octave3/4} |
+ {ArpeggioF,octave3} |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 5-8]]></component_name>
+        <string_value><![CDATA[ {ArpeggioF,octave3} |
+ {ArpeggioBb,octave3} |
+ {ArpeggioF/C7,octave3/4} |
+ {ArpeggioF,octave3} |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 9-12]]></component_name>
+        <string_value><![CDATA[ {ArpeggioF,octave4} |
+ {ArpeggioDm,octave4} |
+ {ArpeggioF/G7,octave4/3} |
+ {ArpeggioC7,octave4} |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody chorus bars 5-8]]></component_name>
+        <string_value><![CDATA[A5q C5i C5i D5i C5i
+|
+D5q F5i F5i D6i D6i
+|
+C6q A5i G5i A5i G5i
+|
+F5q F5i F5i F5i G5i
+|
+]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody final chorus bars 5-8]]></component_name>
+        <string_value><![CDATA[A5q C5i C5i D5i C5i
+|
+D5q F5i F5i D6i D6i
+|
+C6q A5i G5i A5i G5i
+|
+F5q F5i F5q.
+|
+]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody intro]]></component_name>
+        <string_value><![CDATA[Rq. Rq.
+|
+Rq. Rq.
+| 
+Rq. Rq.
+|
+Rq. Ri F5i G5i
+| 
+]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 1-4]]></component_name>
+        <string_value><![CDATA[A5q C5i C5i D5i C5i
+|
+D5q F5i F5i D6i D6i
+|
+C6q A5i A5i G5i F5i
+|
+G5q G5i G5i F5i G5i
+|
+]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 13-16]]></component_name>
+        <string_value><![CDATA[C6i C6i C6i C6i D6i E6i
+|
+F6q F6i F6i E6i D6i
+|
+C6q A5i G5i A5i G5i
+|
+F5q F5i F5i F5i G5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 5-8]]></component_name>
+        <string_value><![CDATA[A5q C5i C5i D5i C5i
+|
+D5q F5i F5i D6i D6i
+|
+C6q A5i G5i A5i G5i
+|
+F5q F5i F5i A5i B5i
+|
+]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 9-12]]></component_name>
+        <string_value><![CDATA[C6q C6i C6i A5i C6i
+|
+D6q F6i F6q D6i
+|
+C6q A5i A5i G5i F5i
+|
+G5q G5i G5i A5i B5i
+|
+]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start harmony]]></component_name>
+        <string_value><![CDATA[V1 KFmaj  I[guitar] 
+Rq. Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start melody]]></component_name>
+        <string_value><![CDATA[V0 KFmaj I[piano]
+Rq. Rq.
+|
+]]></string_value>
+      </component>
+    </components>
+    <pattern_components>
+      <pattern_component>
+        <pattern_name><![CDATA[Constants]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[constants]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start harmony]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony intro]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Harmony Verse]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Harmony Chorus]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony]]></pattern_name>
+        <component_position>5</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Harmony Verse]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony]]></pattern_name>
+        <component_position>6</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Harmony Final Chorus]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony Chorus]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 1-4]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony Chorus]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 5-8]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony Final Chorus]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 1-4]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony Final Chorus]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony final chorus bars 5-8]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony Verse]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 1-4]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony Verse]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 5-8]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony Verse]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 9-12]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Harmony Verse]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[harmony verse bars 13-16]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start melody]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody intro]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Melody Verse]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Melody Chorus]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody]]></pattern_name>
+        <component_position>5</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Melody Verse]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody]]></pattern_name>
+        <component_position>6</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Melody Final Chorus]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody Chorus]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 1-4]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody Chorus]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody chorus bars 5-8]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody Final Chorus]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 1-4]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody Final Chorus]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody final chorus bars 5-8]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody Verse]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 1-4]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody Verse]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 5-8]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody Verse]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 9-12]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Melody Verse]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[melody verse bars 13-16]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Song]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Constants]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Song]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Melody]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Song]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Harmony]]></component_name>
+      </pattern_component>
+    </pattern_components>
+  </song>
+</songs>
