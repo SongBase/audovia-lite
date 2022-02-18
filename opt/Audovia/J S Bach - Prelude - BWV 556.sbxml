@@ -1,0 +1,3541 @@
+<?xml version="1.0"?>
+<songs>
+  <song>
+    <song_name><![CDATA[J S Bach - Prelude - BWV 556]]></song_name>
+    <numeric_duration_type>pulses</numeric_duration_type>
+    <components>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Song]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 00]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 00 Part 1]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 01]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 01 Part 1]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 02]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 02 Part 1]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 03]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 03 Part 1]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 04]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 04 Part 1]]></component_name>
+      </component>
+      <component>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voices]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[constants]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 00]]></component_name>
+        <string_value><![CDATA[V0 KFmaj I[clarinet] Rq. |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 01]]></component_name>
+        <string_value><![CDATA[V1 KFmaj I[clarinet] Rq. |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 02]]></component_name>
+        <string_value><![CDATA[V2 KFmaj I[clarinet] Rq. |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 03]]></component_name>
+        <string_value><![CDATA[V3 KFmaj I[clarinet] Rq. |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 04]]></component_name>
+        <string_value><![CDATA[V4 KFmaj I[clarinet] Rq. |]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[tempo]]></component_name>
+        <string_value><![CDATA[T60]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 001]]></component_name>
+        <string_value><![CDATA[F5s E5s F5s G5s A5s B5s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 002]]></component_name>
+        <string_value><![CDATA[A5i+C6i A5i+C6i A5i+C6i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 003]]></component_name>
+        <string_value><![CDATA[A5i+C6i B5s+D6s A5s+C6s G5s+B5s F5s+A5s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 004]]></component_name>
+        <string_value><![CDATA[E5q.+G5q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 005]]></component_name>
+        <string_value><![CDATA[F5/6 A5/5 C6/5 F5/6 A5/5 C6/5 F5/6 A5/5 C6/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 006]]></component_name>
+        <string_value><![CDATA[F5/6 B5/5 D6/5 F5/6 B5/5 D6/5 F5/6 B5/5 D6/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 007]]></component_name>
+        <string_value><![CDATA[G5/6 Bn5/5 D6/5 G5/6 Bn5/5 D6/5 G5/6 Bn5/5 D6/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 008]]></component_name>
+        <string_value><![CDATA[G5/6 C6/5 E6/5 G5/6 C6/5 E6/5 G5/6 C6/5 E6/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 009]]></component_name>
+        <string_value><![CDATA[A5/6 C#6/5 E6/5 A5/6 C#6/5 E6/5 A5/6 C#6/5 E6/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 010]]></component_name>
+        <string_value><![CDATA[A5/6 D6/5 F6/5 A5/6 D6/5 F6/5 A5/6 D6/5 F6/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 011]]></component_name>
+        <string_value><![CDATA[B5/6 D6/5 G6/5 B5/6 D6/5 G6/5 B5/6 D6/5 G6/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 012]]></component_name>
+        <string_value><![CDATA[E6s C6s D6s E6s F6i-
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 013]]></component_name>
+        <string_value><![CDATA[F6-s B5s A5/4 G5/3 A5/3 G5/3 A5/3 G5s F5s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 014]]></component_name>
+        <string_value><![CDATA[F5q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 015]]></component_name>
+        <string_value><![CDATA[A5i C6i A5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 016]]></component_name>
+        <string_value><![CDATA[G5i C6i G5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 017]]></component_name>
+        <string_value><![CDATA[A5i C6i A5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 018]]></component_name>
+        <string_value><![CDATA[E5s+G5s D5s+F5s E5q+G5q
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 019]]></component_name>
+        <string_value><![CDATA[B5i D6i B5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 020]]></component_name>
+        <string_value><![CDATA[A5i D6i A5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 021]]></component_name>
+        <string_value><![CDATA[B5i D6i B5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 022]]></component_name>
+        <string_value><![CDATA[F#5s+A5s E5s+G5s F#5q+A5q
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 023]]></component_name>
+        <string_value><![CDATA[D5/6 G5/5 B5/5 D5/6 G5/5 B5/5 D5/6 G5/5 B5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 024]]></component_name>
+        <string_value><![CDATA[F#5/6 A5/5 C6/5 F#5/6 A5/5 C6/5 F#5/6 A5/5 C6/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 025]]></component_name>
+        <string_value><![CDATA[D5/6 G5/5 B5/5 D5/6 G5/5 B5/5 D5/6 G5/5 B5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 026]]></component_name>
+        <string_value><![CDATA[C#5/6 E5/5 A5/5 C#5/6 E5/5 A5/5 C#5/6 E5/5 A5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 027]]></component_name>
+        <string_value><![CDATA[G5s F5s E5s D6s C#6s G5s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 028]]></component_name>
+        <string_value><![CDATA[F5q.+D6q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 029]]></component_name>
+        <string_value><![CDATA[C5/6 F5/5 A5/5 C5/6 F5/5 A5/5 C5/6 F5/5 A5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 030]]></component_name>
+        <string_value><![CDATA[E5/6 G5/5 B5/5 E5/6 G5/5 B5/5 E5/6 G5/5 B5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 031]]></component_name>
+        <string_value><![CDATA[C5/6 F5/5 A5/5 C5/6 F5/5 A5/5 C5/6 F5/5 A5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 032]]></component_name>
+        <string_value><![CDATA[Bn4/6 D5/5 G5/5 Bn4/6 D5/5 G5/5 Bn4/6 D5/5 G5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 033]]></component_name>
+        <string_value><![CDATA[F5s E5s D5s C6s Bn5s F5s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 034]]></component_name>
+        <string_value><![CDATA[E5q.+G5q.+C6q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 035]]></component_name>
+        <string_value><![CDATA[C5/6 E5/5 G5/5 C5/6 E5/5 G5/5 C5/6 E5/5 G5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 036]]></component_name>
+        <string_value><![CDATA[C5/6 F5/5 A5/5 C5/6 F5/5 A5/5 C5/6 F5/5 A5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 037]]></component_name>
+        <string_value><![CDATA[D5/6 F#5/5 A5/5 D5/6 F#5/5 A5/5 D5/6 F#5/5 A5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 038]]></component_name>
+        <string_value><![CDATA[D5/6 G5/5 Bn5/5 D5/6 G5/5 Bn5/5 D5/6 G5/5 Bn5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 039]]></component_name>
+        <string_value><![CDATA[E5/6 G#5/5 Bn5/5 E5/6 G#5/5 Bn5/5 E5/6 G#5/5 Bn5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 040]]></component_name>
+        <string_value><![CDATA[E5/6 A5/5 C6/5 E5/6 A5/5 C6/5 E5/6 A5/5 C6/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 041]]></component_name>
+        <string_value><![CDATA[F#5/6 A5/5 Bn5/5 F#5/6 A5/5 Bn5/5 F#5/6 A5/5 Bn5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 042]]></component_name>
+        <string_value><![CDATA[G#5s E5s F#5s G#5s A5s Bn5s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 043]]></component_name>
+        <string_value><![CDATA[C6s D6s C6/4 Bn5/3 C6/3 Bn5/3 C6/3 Bn5s A5s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 044]]></component_name>
+        <string_value><![CDATA[C5q.+E5q.+A5q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 045]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 046]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 047]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 048]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 049]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 050]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 051]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 052]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 053]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 054]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 055]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 056]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 057]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 058]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 001]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 002]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 003]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 004]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 005]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 006]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 007]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 008]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 009]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 010]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 011]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 012]]></component_name>
+        <string_value><![CDATA[G5q F5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 013]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 014]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 015]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 016]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 017]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 018]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 019]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 020]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 021]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 022]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 023]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 024]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 025]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 026]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 027]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 028]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 029]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 030]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 031]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 032]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 033]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 034]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 035]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 036]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 037]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 038]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 039]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 040]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 041]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 042]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 043]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 044]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 045]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 046]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 047]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 048]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 049]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 050]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 051]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 052]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 053]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 054]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 055]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 056]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 057]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 058]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 001]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 002]]></component_name>
+        <string_value><![CDATA[F4s E4s F4s G4s A4s B4s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 003]]></component_name>
+        <string_value><![CDATA[C5i C5i C5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 004]]></component_name>
+        <string_value><![CDATA[C5s D5s C5s B4s A4s G4s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 005]]></component_name>
+        <string_value><![CDATA[F4i A4i F4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 006]]></component_name>
+        <string_value><![CDATA[B4i D5i B4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 007]]></component_name>
+        <string_value><![CDATA[G4i Bn4i G4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 008]]></component_name>
+        <string_value><![CDATA[C5i E5i C5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 009]]></component_name>
+        <string_value><![CDATA[A4i C#5i A4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 010]]></component_name>
+        <string_value><![CDATA[D5i F5i D5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 011]]></component_name>
+        <string_value><![CDATA[B4i D5i B4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 012]]></component_name>
+        <string_value><![CDATA[B4q+C5q A4i+C5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 013]]></component_name>
+        <string_value><![CDATA[F5q E5i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 014]]></component_name>
+        <string_value><![CDATA[F4q.+A4q.+C5q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 015]]></component_name>
+        <string_value><![CDATA[F4/6 A4/5 C5/5 F4/6 A4/5 C5/5 F4/6 A4/5 C5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 016]]></component_name>
+        <string_value><![CDATA[E4/6 G4/5 C5/5 E4/6 G4/5 C5/5 E4/6 G4/5 C5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 017]]></component_name>
+        <string_value><![CDATA[F4/6 A4/5 C5/5 F4/6 A4/5 C5/5 F4/6 A4/5 C5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 018]]></component_name>
+        <string_value><![CDATA[C4i. C5s B4s A4s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 019]]></component_name>
+        <string_value><![CDATA[G4/6 B4/5 D5/5 G4/6 B4/5 D5/5 G4/6 B4/5 D5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 020]]></component_name>
+        <string_value><![CDATA[F#4/6 A4/5 D5/5 F#4/6 A4/5 D5/5 F#4/6 A4/5 D5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 021]]></component_name>
+        <string_value><![CDATA[G4/6 B4/5 D5/5 G4/6 B4/5 D5/5 G4/6 B4/5 D5/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 022]]></component_name>
+        <string_value><![CDATA[D4i. Eb4s D4s C4s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 023]]></component_name>
+        <string_value><![CDATA[B3/6 D4/5 G4/5 B3/6 D4/5 G4/5 B3/6 D4/5 G4/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 024]]></component_name>
+        <string_value><![CDATA[A3/6 C4/5 Eb4/5 A3/6 C4/5 Eb4/5 A3/6 C4/5 Eb4/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 025]]></component_name>
+        <string_value><![CDATA[B3/6 D4/5 G4/5 B3/6 D4/5 G4/5 B3/6 D4/5 G4/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 026]]></component_name>
+        <string_value><![CDATA[G4q F4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 027]]></component_name>
+        <string_value><![CDATA[E4i A4i A3i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 028]]></component_name>
+        <string_value><![CDATA[D4i D3s D4s C4s B3s
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 029]]></component_name>
+        <string_value><![CDATA[A3/6 C4/5 F4/5 A3/6 C4/5 F4/5 A3/6 C4/5 F4/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 030]]></component_name>
+        <string_value><![CDATA[G3/6 B3/5 E4/5 G3/6 B3/5 E4/5 G3/6 B3/5 E4/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 031]]></component_name>
+        <string_value><![CDATA[A3/6 C4/5 F4/5 A3/6 C4/5 F4/5 A3/6 C4/5 F4/5
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 032]]></component_name>
+        <string_value><![CDATA[F4q E4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 033]]></component_name>
+        <string_value><![CDATA[D4i G4i G3i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 034]]></component_name>
+        <string_value><![CDATA[C4i C3i Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 035]]></component_name>
+        <string_value><![CDATA[C4i E4i C4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 036]]></component_name>
+        <string_value><![CDATA[F4i A4i F4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 037]]></component_name>
+        <string_value><![CDATA[D4i F#4i D4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 038]]></component_name>
+        <string_value><![CDATA[G4i Bn4i G4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 039]]></component_name>
+        <string_value><![CDATA[E4i G#4i E4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 040]]></component_name>
+        <string_value><![CDATA[A4i C5i A4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 041]]></component_name>
+        <string_value><![CDATA[Bn4q.-
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 042]]></component_name>
+        <string_value><![CDATA[Bn4-q A4i-
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 043]]></component_name>
+        <string_value><![CDATA[A4-q G#4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 044]]></component_name>
+        <string_value><![CDATA[E4q.+A4q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 045]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 046]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 047]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 048]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 049]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 050]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 051]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 052]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 053]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 054]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 055]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 056]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 057]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 058]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 001]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 002]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 003]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 004]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 005]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 006]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 007]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 008]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 009]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 010]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 011]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 012]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 013]]></component_name>
+        <string_value><![CDATA[B4i+D5i C5q
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 014]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 015]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 016]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 017]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 018]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 019]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 020]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 021]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 022]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 023]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 024]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 025]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 026]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 027]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 028]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 029]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 030]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 031]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 032]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 033]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 034]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 035]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 036]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 037]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 038]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 039]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 040]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 041]]></component_name>
+        <string_value><![CDATA[F#4q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 042]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 043]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 044]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 045]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 046]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 047]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 048]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 049]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 050]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 051]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 052]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 053]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 054]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 055]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 056]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 057]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 058]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 001]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 002]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 003]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 004]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 005]]></component_name>
+        <string_value><![CDATA[F3q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 006]]></component_name>
+        <string_value><![CDATA[B3q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 007]]></component_name>
+        <string_value><![CDATA[G3q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 008]]></component_name>
+        <string_value><![CDATA[C4q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 009]]></component_name>
+        <string_value><![CDATA[A3q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 010]]></component_name>
+        <string_value><![CDATA[D4q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 011]]></component_name>
+        <string_value><![CDATA[B3q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 012]]></component_name>
+        <string_value><![CDATA[B3q A3i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 013]]></component_name>
+        <string_value><![CDATA[B3i C4q
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 014]]></component_name>
+        <string_value><![CDATA[F3q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 015]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 016]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 017]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 018]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 019]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 020]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 021]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 022]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 023]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 024]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 025]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 026]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 027]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 028]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 029]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 030]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 031]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 032]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 033]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 034]]></component_name>
+        <string_value><![CDATA[Rq.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 035]]></component_name>
+        <string_value><![CDATA[C4q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 036]]></component_name>
+        <string_value><![CDATA[F3q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 037]]></component_name>
+        <string_value><![CDATA[D4q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 038]]></component_name>
+        <string_value><![CDATA[G3q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 039]]></component_name>
+        <string_value><![CDATA[E4q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 040]]></component_name>
+        <string_value><![CDATA[A3q Ri
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 041]]></component_name>
+        <string_value><![CDATA[D#4q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 042]]></component_name>
+        <string_value><![CDATA[E4i D4i C4i
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 043]]></component_name>
+        <string_value><![CDATA[A3i E4q
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 044]]></component_name>
+        <string_value><![CDATA[A3q.
+|]]></string_value>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 045]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 046]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 047]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 048]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 049]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 050]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 051]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 052]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 053]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 054]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 055]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 056]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 057]]></component_name>
+      </component>
+      <component>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 058]]></component_name>
+      </component>
+    </components>
+    <pattern_components>
+      <pattern_component>
+        <pattern_name><![CDATA[Song]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[tempo]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Song]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[constants]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Song]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voices]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00]]></pattern_name>
+        <component_position>0</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 00]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 00 Part 1]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 001]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 002]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 003]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 004]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>5</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 005]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>6</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 006]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>7</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 007]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>8</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 008]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>9</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 009]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>10</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 010]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>11</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 011]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>12</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 012]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>13</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 013]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>14</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 014]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>15</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 015]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>16</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 016]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>17</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 017]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>18</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 018]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>19</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 019]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>20</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 020]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>21</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 021]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>22</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 022]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>23</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 023]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>24</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 024]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>25</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 025]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>26</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 026]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>27</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 027]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>28</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 028]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>29</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 029]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>30</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 030]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>31</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 031]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>32</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 032]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>33</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 033]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>34</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 034]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>35</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 035]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>36</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 036]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>37</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 037]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>38</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 038]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>39</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 039]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>40</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 040]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>41</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 041]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>42</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 042]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>43</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 043]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>44</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 044]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>45</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 045]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>46</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 046]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>47</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 047]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>48</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 048]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>49</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 049]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>50</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 050]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>51</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 051]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>52</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 052]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>53</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 053]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>54</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 054]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>55</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 055]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>56</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 056]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>57</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 057]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 00 Part 1]]></pattern_name>
+        <component_position>58</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 00 part 1 bar 058]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01]]></pattern_name>
+        <component_position>0</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 01]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 01 Part 1]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 001]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 002]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 003]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 004]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>5</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 005]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>6</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 006]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>7</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 007]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>8</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 008]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>9</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 009]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>10</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 010]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>11</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 011]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>12</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 012]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>13</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 013]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>14</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 014]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>15</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 015]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>16</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 016]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>17</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 017]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>18</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 018]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>19</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 019]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>20</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 020]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>21</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 021]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>22</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 022]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>23</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 023]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>24</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 024]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>25</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 025]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>26</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 026]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>27</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 027]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>28</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 028]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>29</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 029]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>30</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 030]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>31</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 031]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>32</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 032]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>33</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 033]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>34</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 034]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>35</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 035]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>36</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 036]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>37</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 037]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>38</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 038]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>39</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 039]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>40</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 040]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>41</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 041]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>42</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 042]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>43</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 043]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>44</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 044]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>45</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 045]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>46</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 046]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>47</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 047]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>48</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 048]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>49</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 049]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>50</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 050]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>51</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 051]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>52</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 052]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>53</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 053]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>54</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 054]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>55</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 055]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>56</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 056]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>57</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 057]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 01 Part 1]]></pattern_name>
+        <component_position>58</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 01 part 1 bar 058]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02]]></pattern_name>
+        <component_position>0</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 02]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 02 Part 1]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 001]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 002]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 003]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 004]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>5</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 005]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>6</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 006]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>7</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 007]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>8</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 008]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>9</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 009]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>10</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 010]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>11</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 011]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>12</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 012]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>13</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 013]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>14</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 014]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>15</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 015]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>16</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 016]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>17</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 017]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>18</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 018]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>19</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 019]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>20</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 020]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>21</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 021]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>22</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 022]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>23</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 023]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>24</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 024]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>25</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 025]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>26</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 026]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>27</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 027]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>28</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 028]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>29</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 029]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>30</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 030]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>31</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 031]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>32</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 032]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>33</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 033]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>34</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 034]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>35</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 035]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>36</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 036]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>37</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 037]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>38</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 038]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>39</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 039]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>40</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 040]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>41</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 041]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>42</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 042]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>43</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 043]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>44</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 044]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>45</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 045]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>46</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 046]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>47</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 047]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>48</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 048]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>49</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 049]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>50</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 050]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>51</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 051]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>52</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 052]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>53</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 053]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>54</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 054]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>55</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 055]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>56</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 056]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>57</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 057]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 02 Part 1]]></pattern_name>
+        <component_position>58</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 02 part 1 bar 058]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03]]></pattern_name>
+        <component_position>0</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 03]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 03 Part 1]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 001]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 002]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 003]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 004]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>5</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 005]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>6</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 006]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>7</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 007]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>8</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 008]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>9</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 009]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>10</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 010]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>11</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 011]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>12</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 012]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>13</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 013]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>14</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 014]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>15</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 015]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>16</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 016]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>17</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 017]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>18</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 018]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>19</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 019]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>20</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 020]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>21</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 021]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>22</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 022]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>23</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 023]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>24</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 024]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>25</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 025]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>26</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 026]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>27</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 027]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>28</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 028]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>29</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 029]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>30</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 030]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>31</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 031]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>32</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 032]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>33</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 033]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>34</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 034]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>35</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 035]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>36</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 036]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>37</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 037]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>38</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 038]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>39</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 039]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>40</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 040]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>41</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 041]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>42</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 042]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>43</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 043]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>44</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 044]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>45</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 045]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>46</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 046]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>47</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 047]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>48</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 048]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>49</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 049]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>50</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 050]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>51</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 051]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>52</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 052]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>53</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 053]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>54</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 054]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>55</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 055]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>56</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 056]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>57</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 057]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 03 Part 1]]></pattern_name>
+        <component_position>58</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 03 part 1 bar 058]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04]]></pattern_name>
+        <component_position>0</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[start voice 04]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 04 Part 1]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 001]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 002]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 003]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 004]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>5</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 005]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>6</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 006]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>7</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 007]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>8</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 008]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>9</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 009]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>10</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 010]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>11</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 011]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>12</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 012]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>13</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 013]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>14</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 014]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>15</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 015]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>16</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 016]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>17</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 017]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>18</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 018]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>19</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 019]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>20</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 020]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>21</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 021]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>22</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 022]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>23</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 023]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>24</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 024]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>25</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 025]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>26</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 026]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>27</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 027]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>28</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 028]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>29</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 029]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>30</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 030]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>31</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 031]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>32</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 032]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>33</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 033]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>34</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 034]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>35</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 035]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>36</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 036]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>37</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 037]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>38</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 038]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>39</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 039]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>40</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 040]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>41</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 041]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>42</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 042]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>43</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 043]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>44</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 044]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>45</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 045]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>46</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 046]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>47</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 047]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>48</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 048]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>49</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 049]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>50</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 050]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>51</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 051]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>52</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 052]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>53</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 053]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>54</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 054]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>55</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 055]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>56</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 056]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>57</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 057]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voice 04 Part 1]]></pattern_name>
+        <component_position>58</component_position>
+        <component_type>string</component_type>
+        <component_name><![CDATA[voice 04 part 1 bar 058]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voices]]></pattern_name>
+        <component_position>0</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 00]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voices]]></pattern_name>
+        <component_position>1</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 01]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voices]]></pattern_name>
+        <component_position>2</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 02]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voices]]></pattern_name>
+        <component_position>3</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 03]]></component_name>
+      </pattern_component>
+      <pattern_component>
+        <pattern_name><![CDATA[Voices]]></pattern_name>
+        <component_position>4</component_position>
+        <component_type>pattern</component_type>
+        <component_name><![CDATA[Voice 04]]></component_name>
+      </pattern_component>
+    </pattern_components>
+  </song>
+</songs>

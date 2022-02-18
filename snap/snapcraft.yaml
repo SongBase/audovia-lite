@@ -12,11 +12,13 @@ description: |
 
   Notes can be entered manually or by picking from graphic Treble, Alto, Tenor and Bass staves within the MusicString editor.
 
-  Within the application, use File/Template to create a song, then Tree View and expand the nodes. Select each bar in turn and enter the notes. Select "Song" and press Play to play back your music. From the File menu, you can export to MIDI and WAV. The MIDI files can be opened in LMMS for music processing or in MuseScore for music publishing. The WAV files can be opened in Audacity, then exported to MP3.
+  Within the application, use File/Template to create a song, then Tree View and expand the nodes. Select each bar in turn and enter the notes. Select "Song" and press Play to play back your music.
+  
+  From the File menu, you can export to MIDI and WAV. The MIDI files can be opened in LMMS for music processing or in MuseScore for music publishing. The WAV files can be opened in Audacity, then exported to MP3.
 
   You can share songs by exporting and importing songs in XML format. Use File/Song Import to import the demonstration songs.
 
-  The application can be run by typing audovia-lite at the terminal or by using the desktop shortcut in /snap/audovia-classic/current/.
+  The application can be run by typing audovia-lite at the terminal or by using the desktop shortcut in /snap/audovia-lite/current/.
 
   For a quick start you can use File/Song Import and open the Demo folder, then select a song and Import Song. Then, from Tree View, select "Song", press Play, then Default Soundbank.
 
