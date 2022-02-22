@@ -26,7 +26,7 @@ description: |
 
 grade: stable
 architectures: [ amd64 ]
-confinement: strict
+confinement: classic
 base: core20
 
 layout:
