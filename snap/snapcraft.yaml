@@ -1,5 +1,5 @@
 name: audovia-lite
-version: '4.04'
+version: '4.05'
 summary: Database application for making music using JFugue MusicStrings
 description: |
   Make music on your laptop or PC with Audovia. Songs can have up to 15 instrumental voices and a percussion track with instruments chosen from the default soundbank of 128 instruments or from any other soundbank of your choice. Songs can be developed, tested and edited very quickly and easily by virtue of the database structure and the JFugue MusicString notation.
