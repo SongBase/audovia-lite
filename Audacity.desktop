@@ -2,8 +2,8 @@
 Version=3.1.3
 Name=Audacity
 Comment=Audacity application
-Exec=/snap/audovia-classic/current/opt/Audovia/audacity-linux-3.1.3-x86_64.AppImage
-Icon=/snap/audovia-classic/current/meta/gui/audacity.svg
+Exec=/snap/audovia-lite/current/opt/Audovia/audacity-linux-3.1.3-x86_64.AppImage
+Icon=/snap/audovia-lite/current/meta/gui/audacity.svg
 Terminal=false
 StartupNotify=true
 Type=Application
