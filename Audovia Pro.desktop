@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=4.05
+Name=Audovia Pro
+Comment=Database application for making music using JFugue MusicStrings
+Exec=/snap/audovia-lite/current/opt/Audovia/AudoviaPro.sh
+Icon=/snap/audovia-lite/current/meta/gui/SongBuilderColourIcon48.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Audio;Midi;Music;AudioVideo;Education;
+

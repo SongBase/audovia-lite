@@ -29,5 +29,5 @@ cp $SNAP/opt/Audovia/*.sbxml XML/Demo
 cp $SNAP/opt/Audovia/doc/*.pdf doc
 
 $SNAP/opt/Audovia/audovia_app/bin/java -Duser.home=. -Djava.util.prefs.userRoot=uprefs -Xmx1024m -m \
-audovia/com.gray10.audovia.SBSUserMain config/conf_audovia.xml $path
+audovia/com.gray10.audovia.SBSUserMain config/conf_audovia.xml $path lite
 
