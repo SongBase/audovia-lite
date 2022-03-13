@@ -1,6 +1,6 @@
 #!/bin/sh
 
-SNAP=/home/donald/mysnaps/audovia-lite
+SNAP=/snap/audovia-lite/current
 
 path=$SNAP/opt/Audovia
 cd /home/$USER
