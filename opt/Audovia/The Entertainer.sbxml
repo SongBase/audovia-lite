@@ -1256,7 +1256,7 @@
       <component>
         <component_type>string</component_type>
         <component_name><![CDATA[voice 02 part 1 bar 003]]></component_name>
-        <string_value><![CDATA[D4s E4s C4s A3s- C4-s B3s A3s Ab3s]]></string_value>
+        <string_value><![CDATA[D4s E4s C4s A3s- A3-s B3s A3s Ab3s]]></string_value>
       </component>
       <component>
         <component_type>string</component_type>

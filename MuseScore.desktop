@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=3.6.2
+Name=MuseScore
+Comment=MuseScore application
+Exec=/snap/audovia-lite/current/opt/Audovia/MuseScore.AppImage
+Icon=/snap/audovia-lite/current/meta/gui/mscore-portable.png
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Audio;Midi;Music;AudioVideo;Education;

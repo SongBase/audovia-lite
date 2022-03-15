@@ -99,6 +99,7 @@ parts:
       cp "$SNAPCRAFT_PROJECT_DIR/Audovia Lite.desktop" $SNAPCRAFT_PART_INSTALL/
       cp "$SNAPCRAFT_PROJECT_DIR/Audovia Pro.desktop" $SNAPCRAFT_PART_INSTALL/
       cp "$SNAPCRAFT_PROJECT_DIR/Audacity.desktop" $SNAPCRAFT_PART_INSTALL/
+      cp "$SNAPCRAFT_PROJECT_DIR/MuseScore.desktop" $SNAPCRAFT_PART_INSTALL/
     stage-packages:
       - libxcomposite1
       - libxcursor1
