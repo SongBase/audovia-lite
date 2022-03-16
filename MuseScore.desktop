@@ -2,7 +2,7 @@
 Version=3.6.2
 Name=MuseScore
 Comment=MuseScore application
-Exec=/snap/audovia-lite/current/opt/Audovia/MuseScore.AppImage
+Exec=/home/$USER/Documents/Audovia/AppImage/MuseScore.AppImage
 Icon=/snap/audovia-lite/current/meta/gui/mscore-portable.png
 Terminal=false
 StartupNotify=true

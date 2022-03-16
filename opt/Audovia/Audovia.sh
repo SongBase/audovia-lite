@@ -18,6 +18,7 @@ if [ ! -d XML ]; then mkdir XML; fi
 if [ ! -d SF2 ]; then mkdir SF2; fi
 if [ ! -d MP3 ]; then mkdir MP3; fi
 if [ ! -d PDF ]; then mkdir PDF; fi
+if [ ! -d AppImage ]; then mkdir AppImage; fi
 cd XML
 if [ ! -d Demo ]; then mkdir Demo; fi
 cd ..
