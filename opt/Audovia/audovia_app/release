@@ -1,2 +1,2 @@
-JAVA_VERSION="12"
+JAVA_VERSION="18.0.1"
 MODULES="java.base java.datatransfer java.xml java.prefs java.desktop java.logging java.transaction.xa java.sql org.apache.derby.commons java.management org.apache.derby.engine org.apache.derby.tools audovia"
