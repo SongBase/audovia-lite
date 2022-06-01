@@ -22,7 +22,7 @@ description: |
 
   For a quick start you can use File/Song Import and open the Demo folder, then select a song and Import Song. Then, from Tree View, select "Song", press Play, then Default Soundbank.
 
-  To hear some sample songs please visit our Developer website.
+  To hear some sample songs please visit our project website.
 
 grade: stable
 architectures: [ amd64 ]

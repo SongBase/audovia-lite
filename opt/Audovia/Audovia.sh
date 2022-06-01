@@ -29,6 +29,7 @@ if [ ! -d config ]; then mkdir config; cp $SNAP/opt/Audovia/*.xml config; fi
 cp $SNAP/opt/Audovia/*.sbxml XML/Demo
 cp $SNAP/opt/Audovia/doc/*.pdf doc
 cp $SNAP/opt/Audovia/*.sf2 SF2
+cp $SNAP/opt/Audovia/*.dls SF2
 
 $SNAP/opt/Audovia/audovia_app/bin/java -Duser.home=. -Djava.util.prefs.userRoot=uprefs -Xmx1024m -m \
 audovia/com.gray10.audovia.SBSUserMain config/conf_audovia.xml $path lite
